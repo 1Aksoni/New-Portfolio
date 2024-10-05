@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Roboto:wght@400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif; /* Default font for body */
+}
+
+.font-orbitron {
+  font-family: 'Orbitron', sans-serif; /* Futuristic font for headings */
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
