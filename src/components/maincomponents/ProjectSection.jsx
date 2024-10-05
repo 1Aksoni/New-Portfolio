@@ -37,6 +37,14 @@ const Projects = [
     link: "https://weather-app1-puce.vercel.app/",
     githubLink: "https://github.com/1Aksoni/Weather_app1", // Add your GitHub link here
   },
+  ,
+  {
+    title: "Custom Git",
+    description: "his project is a custom implementation of core Git functionality.",
+    image: "./Project_images/Custom-Git/image.png",
+    link: "https://github.com/1Aksoni/Custom-Git",
+    githubLink: "https://github.com/1Aksoni/Custom-Git", // Add your GitHub link here
+  },
 ];
 
 
