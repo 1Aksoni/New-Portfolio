@@ -11,7 +11,8 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Demo
 
-[Live Demo]([https://your-deployment-url.com](https://new-portfolio-sand-theta.vercel.app/)]) (Replace with the actual link to your deployed site)
+[Live Demo](https://new-portfolio-sand-theta.vercel.app/)  (Replace with the actual link to your deployed site)
+
 
 ## Features
 - **Smooth Scrolling Navigation**: Clickable menu items smoothly scroll to their respective sections.
